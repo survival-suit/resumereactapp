@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/resumereactapp/static/css/main.28c5fc70.css",
-    "main.js": "/resumereactapp/static/js/main.2ddcb7d5.js",
+    "main.js": "/resumereactapp/static/js/main.24b5b109.js",
     "index.html": "/resumereactapp/index.html",
     "main.28c5fc70.css.map": "/resumereactapp/static/css/main.28c5fc70.css.map",
-    "main.2ddcb7d5.js.map": "/resumereactapp/static/js/main.2ddcb7d5.js.map"
+    "main.24b5b109.js.map": "/resumereactapp/static/js/main.24b5b109.js.map"
   },
   "entrypoints": [
     "static/css/main.28c5fc70.css",
-    "static/js/main.2ddcb7d5.js"
+    "static/js/main.24b5b109.js"
   ]
 }
