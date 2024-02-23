@@ -65,6 +65,7 @@ export default function ResumePart() {
                 <SkillBricks
                     bricksHeader={el.bricksHeader}
                     bricksArr={el.bricksArr}
+                    key={el.bricksHeader}
                 />
             ))}
             <br />
